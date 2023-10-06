@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ijyapu.</h1>
-<h3 align="center">A passionate FullStack engineer.</h3>
+<h3 align="center"> Software | Web Developer</h3>
 
 - 🔭 I’m currently working on [Personal-Finance-Application](https://github.com/ijyapu/Personal-Finance-Application)
 
